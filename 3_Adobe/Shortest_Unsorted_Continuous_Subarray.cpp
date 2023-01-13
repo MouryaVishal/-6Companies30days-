@@ -30,7 +30,6 @@ public:
 };
 
 int main(){
- cout<<vishal<<endl;
     int num;
     cout<<"Enter number of elements in an array:- ";
     cin>>num;
