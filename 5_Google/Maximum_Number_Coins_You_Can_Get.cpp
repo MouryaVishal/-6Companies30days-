@@ -14,6 +14,7 @@ public:
             cout<<p[i]<<endl;
             ans+=p[i];
         }
+        
 
         return ans;
     }
